@@ -1,0 +1,22 @@
+{
+  "restaurant": [
+    {
+      "nombrePlatillo": "Merengada de Fresa",
+      "precioPlatillo": "80",
+      "categoria": "bebida",
+      "id": 4
+    },
+    {
+      "precioPlatillo": "100",
+      "nombrePlatillo": "Pastel de Zanahoria",
+      "categoria": "postre",
+      "id": 6
+    },
+    {
+      "precioPlatillo": "20",
+      "nombrePlatillo": "Ensalada de Pollo",
+      "categoria": "ensalada",
+      "id": 7
+    }
+  ]
+}
